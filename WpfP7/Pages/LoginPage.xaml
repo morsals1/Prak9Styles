@@ -1,0 +1,31 @@
+﻿<Page x:Class="WpfP7.Pages.LoginPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="LoginPage"
+      Background="{DynamicResource AppBackground}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="1" Width="300" Style="{StaticResource CenterStackPanel}">
+            <TextBlock Text="Вход в систему" FontSize="20" HorizontalAlignment="Center"/>
+
+            <Label Content="ID доктора"/>
+            <TextBox x:Name="DoctorIdTextBox"/>
+
+            <Label Content="Пароль"/>
+            <PasswordBox x:Name="PasswordBox"/>
+
+            <Button Style="{StaticResource StandardButton}" 
+                    Content="Войти" 
+                    Click="LoginButton_Click"/>
+            <Button Style="{StaticResource StandardButton}" 
+                    Content="Регистрация" 
+                    Click="RegisterButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Page>

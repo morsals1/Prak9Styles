@@ -1,0 +1,41 @@
+﻿<Window x:Class="WpfP7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfP7"
+        mc:Ignorable="d"
+        Title="Система приема пациентов" Height="770" Width="1000">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Menu Grid.Row="0" Background="{DynamicResource ButtonBackground}">
+            <MenuItem Header="Настройки" Foreground="{DynamicResource AppForeground}">
+                <MenuItem Header="Сменить тему" Background="{DynamicResource ButtonBackground}" Click="ChangeTheme_Click"/>
+            </MenuItem>
+        </Menu>
+
+        <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden" Grid.Row="1"/>
+
+        <StatusBar Grid.Row="2" Background="{DynamicResource ButtonBackground}">
+            <StatusBarItem>
+                <TextBlock Text="Докторов:" Foreground="{DynamicResource AppForeground}"/>
+            </StatusBarItem>
+            <StatusBarItem>
+                <TextBlock Text="{Binding DoctorsCount}" Foreground="{DynamicResource AppForeground}"/>
+            </StatusBarItem>
+            <Separator/>
+            <StatusBarItem>
+                <TextBlock Text="Пациентов:" Foreground="{DynamicResource AppForeground}"/>
+            </StatusBarItem>
+            <StatusBarItem>
+                <TextBlock Text="{Binding PatientsCount}" Foreground="{DynamicResource AppForeground}"/>
+            </StatusBarItem>
+        </StatusBar>
+    </Grid>
+</Window>
