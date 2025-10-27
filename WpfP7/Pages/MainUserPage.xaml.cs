@@ -73,5 +73,24 @@ namespace WpfP7.Pages
                 NavigationService.Navigate(new PatientFormPage(Patients, SelectedPatient));
             }
         }
+
+        private void DeleteButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (SelectedPatient == null)
+            {
+                MessageBox.Show("Пользователь не выбран");
+                return;
+            }
+            bool confirm = MessageBox.Show(
+                "Вы действительно хотите удалить запись?",
+                "Подтверждение удаления",
+                MessageBoxButton.YesNo,
+                MessageBoxImage.Question
+                ) == MessageBoxResult.Yes;
+            if (confirm)
+            {
+                Patients.Remove(SelectedPatient);
+            }
+        }
     }
 }

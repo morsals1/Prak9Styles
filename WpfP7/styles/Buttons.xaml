@@ -67,15 +67,32 @@
     <Style TargetType="Button">
         <Setter Property="Foreground" Value="{DynamicResource ButtonForeground}"/>
         <Setter Property="BorderBrush" Value="{DynamicResource ButtonBorder}"/>
+        <Setter Property="Content" Value=""/>
         <Setter Property="BorderThickness" Value="1"/>
         <Setter Property="FontWeight" Value="SemiBold"/>
         <Setter Property="Padding" Value="12,6"/>
         <Setter Property="Margin" Value="5"/>
         <Setter Property="FontSize" Value="12"/>
+        <Setter Property="Height" Value="30"/>
+        <Setter Property="MinWidth" Value="160"/>
     </Style>
 
     <Style x:Key="StandardButton" TargetType="Button" BasedOn="{StaticResource {x:Type Button}}">
         <Setter Property="Background" Value="{DynamicResource ButtonBackground}"/>
+        <Setter Property="BorderBrush" Value="{DynamicResource ButtonBackground}"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button">
+                    <Border Background ="{TemplateBinding Background}" 
+                            BorderBrush="{TemplateBinding BorderBrush}"
+                            Height="{TemplateBinding Height}"
+                            Width="{TemplateBinding Width}">
+                        <ContentPresenter Content="{TemplateBinding Content}" 
+                         VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
         <Style.Triggers>
             <Trigger Property="IsMouseOver" Value="True">
                 <Setter Property="Background" Value="{DynamicResource ButtonHover}"/>
@@ -89,14 +106,17 @@
     <Style x:Key="AddButton" TargetType="Button" BasedOn="{StaticResource {x:Type Button}}">
         <Setter Property="Background" Value="{DynamicResource AddButtonBackground}"/>
         <Setter Property="BorderBrush" Value="{DynamicResource AddButtonBackground}"/>
-        <Setter Property="ContentTemplate">
+        <Setter Property="Template">
             <Setter.Value>
-                <DataTemplate>
-                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
-                        <TextBlock Text="+" FontWeight="Bold" Margin="0,0,5,0" VerticalAlignment="Center"/>
-                        <ContentPresenter Content="{TemplateBinding Content}" VerticalAlignment="Center"/>
-                    </StackPanel>
-                </DataTemplate>
+                <ControlTemplate TargetType="Button">
+                    <Border Background ="{TemplateBinding Background}" 
+                            BorderBrush="{TemplateBinding BorderBrush}">
+                        <StackPanel Orientation="Horizontal">
+                            <ContentPresenter Content="{TemplateBinding Content}" Margin="5,0,5,0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            <TextBlock Text="+" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </StackPanel>
+                    </Border>
+                </ControlTemplate>
             </Setter.Value>
         </Setter>
         <Style.Triggers>
@@ -114,14 +134,17 @@
     <Style x:Key="DeleteButton" TargetType="Button" BasedOn="{StaticResource {x:Type Button}}">
         <Setter Property="Background" Value="{DynamicResource DeleteButtonBackground}"/>
         <Setter Property="BorderBrush" Value="{DynamicResource DeleteButtonBackground}"/>
-        <Setter Property="ContentTemplate">
+        <Setter Property="Template">
             <Setter.Value>
-                <DataTemplate>
-                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
-                        <TextBlock Text="🗑" Margin="0,0,5,0" VerticalAlignment="Center"/>
-                        <ContentPresenter Content="{TemplateBinding Content}" VerticalAlignment="Center"/>
-                    </StackPanel>
-                </DataTemplate>
+                <ControlTemplate TargetType="Button">
+                    <Border Background ="{TemplateBinding Background}" 
+                            BorderBrush="{TemplateBinding BorderBrush}">
+                        <StackPanel Orientation="Horizontal">
+                            <ContentPresenter Content="{TemplateBinding Content}" Margin="5,0,5,0" HorizontalAlignment="Center"  VerticalAlignment="Center"/>
+                            <TextBlock Text="🗑️" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </StackPanel>
+                    </Border>
+                </ControlTemplate>
             </Setter.Value>
         </Setter>
         <Style.Triggers>

@@ -33,6 +33,9 @@
             <Button Style="{StaticResource StandardButton}" 
                     Content="Изменить информацию" 
                     Click="EditInfoButton_Click"/>
+            <Button Style="{StaticResource DeleteButton}"
+                    Content="Удалить пациента"
+                    Click="DeleteButton_Click"/>
         </StackPanel>
 
         <ListView Grid.Row="2" 

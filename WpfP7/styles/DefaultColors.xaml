@@ -19,8 +19,8 @@
     <SolidColorBrush x:Key="DeleteButtonPressed" Color="#B91C1C"/>
 
     <SolidColorBrush x:Key="TextBoxBackground" Color="#FFFFFF"/>
-    <SolidColorBrush x:Key="TextBoxBorder" Color="#D1D5DB"/>
-    <SolidColorBrush x:Key="GroupBoxBorder" Color="#E5E7EB"/>
-    <SolidColorBrush x:Key="ListViewBorder" Color="#D1D5DB"/>
+    <SolidColorBrush x:Key="TextBoxBorder" Color="#808083"/>
+    <SolidColorBrush x:Key="GroupBoxBorder" Color="#B7B8BC"/>
+    <SolidColorBrush x:Key="ListViewBorder" Color="#808083"/>
 
 </ResourceDictionary>

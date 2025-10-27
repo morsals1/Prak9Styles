@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mensh\\Desktop\\design\\WpfP7\\WpfP7.csproj": {}
+    "C:\\Users\\st310-12\\Desktop\\menshikov2\\WpfP7\\WpfP7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mensh\\Desktop\\design\\WpfP7\\WpfP7.csproj": {
+    "C:\\Users\\st310-12\\Desktop\\menshikov2\\WpfP7\\WpfP7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mensh\\Desktop\\design\\WpfP7\\WpfP7.csproj",
+        "projectUniqueName": "C:\\Users\\st310-12\\Desktop\\menshikov2\\WpfP7\\WpfP7.csproj",
         "projectName": "WpfP7",
-        "projectPath": "C:\\Users\\mensh\\Desktop\\design\\WpfP7\\WpfP7.csproj",
-        "packagesPath": "C:\\Users\\mensh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mensh\\Desktop\\design\\WpfP7\\obj\\",
+        "projectPath": "C:\\Users\\st310-12\\Desktop\\menshikov2\\WpfP7\\WpfP7.csproj",
+        "packagesPath": "C:\\Users\\st310-12\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\st310-12\\Desktop\\menshikov2\\WpfP7\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mensh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\st310-12\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "\\\\ectsserver.edu\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -68,7 +70,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

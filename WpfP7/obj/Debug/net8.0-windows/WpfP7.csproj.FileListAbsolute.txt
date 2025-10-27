@@ -156,3 +156,8 @@ C:\Users\mensh\Desktop\design\WpfP7\obj\Debug\net8.0-windows\WpfP7.csproj.CoreCo
 C:\Users\mensh\Desktop\design\WpfP7\obj\Debug\net8.0-windows\WpfP7.sourcelink.json
 C:\Users\mensh\Desktop\design\WpfP7\obj\Debug\net8.0-windows\WpfP7.genruntimeconfig.cache
 C:\Users\mensh\Desktop\design\WpfP7\obj\Debug\net8.0-windows\ref\WpfP7.dll
+C:\Users\st310-12\Desktop\menshikov2\WpfP7\bin\Debug\net8.0-windows\WpfP7.dll.config
+C:\Users\st310-12\Desktop\menshikov2\WpfP7\obj\Debug\net8.0-windows\styles\Buttons.baml
+C:\Users\st310-12\Desktop\menshikov2\WpfP7\obj\Debug\net8.0-windows\styles\DarkTheme.baml
+C:\Users\st310-12\Desktop\menshikov2\WpfP7\obj\Debug\net8.0-windows\styles\DefaultColors.baml
+C:\Users\st310-12\Desktop\menshikov2\WpfP7\obj\Debug\net8.0-windows\App.baml
