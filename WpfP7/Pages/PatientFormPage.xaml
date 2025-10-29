@@ -11,10 +11,7 @@
             <RowDefinition Height="auto"/>
         </Grid.RowDefinitions>
 
-        <TextBlock Grid.Row="0" 
-                   x:Name="PageTitleText" 
-                   FontSize="20" 
-                   HorizontalAlignment="Center"/>
+        <TextBlock Grid.Row="0" x:Name="PageTitleText" Style="{StaticResource PageTitle}"/>
 
         <StackPanel Grid.Row="1" Width="400" Style="{StaticResource CenterStackPanel}">
             <Label Content="Имя"/>

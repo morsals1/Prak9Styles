@@ -53,10 +53,10 @@
                     <DataTemplate>
                         <Border Background="{DynamicResource ButtonBackground}">
                             <StackPanel>
-                                <TextBlock Text="{Binding Date}" FontWeight="Bold"/>
+                                <TextBlock Text="{Binding Date}"/>
                                 <TextBlock Text="{Binding Diagnosis}" TextWrapping="Wrap"/>
-                                <TextBlock Text="{Binding Recommendations}" TextWrapping="Wrap" FontSize="10"/>
-                                <TextBlock Text="{Binding FullName}" FontSize="10"/>
+                                <TextBlock Text="{Binding Recommendations}" TextWrapping="Wrap"/>
+                                <TextBlock Text="{Binding FullName}"/>
                             </StackPanel>
                         </Border>
                     </DataTemplate>

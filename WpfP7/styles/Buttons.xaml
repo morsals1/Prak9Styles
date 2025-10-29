@@ -8,6 +8,13 @@
         <Setter Property="Margin" Value="5,0"/>
     </Style>
 
+    <Style x:Key="PageTitle" TargetType="TextBlock">
+        <Setter Property="Foreground" Value="{DynamicResource AppForeground}"/>
+        <Setter Property="FontSize" Value="20"/>
+        <Setter Property="HorizontalAlignment" Value="Center"/>
+        <Setter Property="FontWeight" Value="SemiBold"/>
+    </Style>
+
     <Style TargetType="PasswordBox">
         <Setter Property="Background" Value="{DynamicResource TextBoxBackground}"/>
         <Setter Property="Foreground" Value="{DynamicResource AppForeground}"/>

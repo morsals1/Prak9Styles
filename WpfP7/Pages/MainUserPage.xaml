@@ -48,10 +48,10 @@
                             CornerRadius="5" 
                             Padding="10">
                         <StackPanel>
-                            <TextBlock Text="{Binding LastName}" FontWeight="Bold"/>
+                            <TextBlock Text="{Binding LastName}"/>
                             <TextBlock Text="{Binding Name}"/>
                             <TextBlock Text="{Binding MiddleName}"/>
-                            <TextBlock Text="{Binding PhoneNumber}" FontSize="10"/>
+                            <TextBlock Text="{Binding PhoneNumber}"/>
                         </StackPanel>
                     </Border>
                 </DataTemplate>

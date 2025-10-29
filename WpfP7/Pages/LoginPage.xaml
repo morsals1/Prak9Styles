@@ -12,7 +12,7 @@
         </Grid.RowDefinitions>
 
         <StackPanel Grid.Row="1" Width="300" Style="{StaticResource CenterStackPanel}">
-            <TextBlock Text="Вход в систему" FontSize="20" HorizontalAlignment="Center"/>
+            <TextBlock Text="Вход в систему" Style="{StaticResource PageTitle}"/>
 
             <Label Content="ID доктора"/>
             <TextBox x:Name="DoctorIdTextBox"/>
