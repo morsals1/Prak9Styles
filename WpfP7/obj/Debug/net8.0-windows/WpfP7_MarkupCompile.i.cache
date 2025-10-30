@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\mensh\Desktop\Новая папка (2)\WpfP7\obj\Debug\net8.0-windows\
+C:\Users\st310-12\Desktop\menshikov2\WpfP7\obj\Debug\net8.0-windows\
 WpfP7
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Users\mensh\Desktop\Новая папка (2)\WpfP7\App.xaml
+C:\Users\st310-12\Desktop\menshikov2\WpfP7\App.xaml
 9-1555913312
 
 16866628802
-1981839832580
+198-211836927
 MainWindow.xaml;Pages\AppointmentPage.xaml;Pages\LoginPage.xaml;Pages\MainUserPage.xaml;Pages\PatientFormPage.xaml;Pages\RegisterPage.xaml;styles\Buttons.xaml;styles\DarkTheme.xaml;styles\DefaultColors.xaml;
 
 False

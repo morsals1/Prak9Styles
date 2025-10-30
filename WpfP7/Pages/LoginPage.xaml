@@ -11,7 +11,7 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
-        <StackPanel Grid.Row="1" Width="300" Style="{StaticResource CenterStackPanel}">
+        <StackPanel Grid.Row="1" Style="{StaticResource CenterStackPanel}">
             <TextBlock Text="Вход в систему" Style="{StaticResource PageTitle}"/>
 
             <Label Content="ID доктора"/>

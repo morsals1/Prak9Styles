@@ -34,16 +34,12 @@
                 <TextBox Text="{Binding NewAppointment.Date, Mode=TwoWay}"/>
 
                 <Label Content="Диагноз"/>
-                <TextBox Text="{Binding NewAppointment.Diagnosis, Mode=TwoWay}" 
-                         Height="60" TextWrapping="Wrap" AcceptsReturn="True"/>
+                <TextBox Text="{Binding NewAppointment.Diagnosis, Mode=TwoWay}" Style="{StaticResource BigTextbox}"/>
 
                 <Label Content="Рекомендации"/>
-                <TextBox Text="{Binding NewAppointment.Recommendations, Mode=TwoWay}" 
-                         Height="80" TextWrapping="Wrap" AcceptsReturn="True"/>
+                <TextBox Text="{Binding NewAppointment.Recommendations, Mode=TwoWay}" Style="{StaticResource BigTextbox}"/>
 
-                <Button Style="{StaticResource AddButton}" 
-                        Content="Сохранить прием" 
-                        Click="SaveAppointment_Click"/>
+                <Button Style="{StaticResource AddButton}" Content="Сохранить прием" Click="SaveAppointment_Click"/>
             </StackPanel>
         </GroupBox>
 
@@ -51,11 +47,11 @@
             <ListView ItemsSource="{Binding CurrentPatient.AppointmentStories}">
                 <ListView.ItemTemplate>
                     <DataTemplate>
-                        <Border Background="{DynamicResource ButtonBackground}">
+                        <Border Style="{StaticResource BorderRad}">
                             <StackPanel>
                                 <TextBlock Text="{Binding Date}"/>
-                                <TextBlock Text="{Binding Diagnosis}" TextWrapping="Wrap"/>
-                                <TextBlock Text="{Binding Recommendations}" TextWrapping="Wrap"/>
+                                <TextBlock Text="{Binding Diagnosis}"/>
+                                <TextBlock Text="{Binding Recommendations}"/>
                                 <TextBlock Text="{Binding FullName}"/>
                             </StackPanel>
                         </Border>

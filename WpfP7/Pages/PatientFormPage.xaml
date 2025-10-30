@@ -11,9 +11,9 @@
             <RowDefinition Height="auto"/>
         </Grid.RowDefinitions>
 
-        <TextBlock Grid.Row="0" x:Name="PageTitleText" Style="{StaticResource PageTitle}"/>
+        <TextBlock Grid.Row="0" Style="{StaticResource PageTitle}"/>
 
-        <StackPanel Grid.Row="1" Width="400" Style="{StaticResource CenterStackPanel}">
+        <StackPanel Grid.Row="1" Style="{StaticResource CenterStackPanel}">
             <Label Content="Имя"/>
             <TextBox Text="{Binding CurrentPatient.Name, Mode=TwoWay}"/>
 
@@ -31,13 +31,8 @@
         </StackPanel>
 
         <StackPanel Grid.Row="2" Orientation="Horizontal" Style="{StaticResource HorizontalStackPanel}">
-            <Button Style="{StaticResource AddButton}" 
-                    x:Name="SaveButton" 
-                    Content="Сохранить" 
-                    Click="SaveButton_Click"/>
-            <Button Style="{StaticResource StandardButton}" 
-                    Content="Назад" 
-                    Click="BackButton_Click"/>
+            <Button Style="{StaticResource AddButton}" Content="Сохранить" Click="SaveButton_Click"/>
+            <Button Style="{StaticResource StandardButton}" Content="Назад" Click="BackButton_Click"/>
         </StackPanel>
     </Grid>
 </Page>

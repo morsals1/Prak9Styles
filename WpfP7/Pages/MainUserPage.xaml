@@ -44,9 +44,7 @@
                   MouseDoubleClick="PatientList_DoubleClick">
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <Border Background="{DynamicResource ButtonBackground}" 
-                            CornerRadius="5" 
-                            Padding="10">
+                    <Border Style="{StaticResource BorderRad}">
                         <StackPanel>
                             <TextBlock Text="{Binding LastName}"/>
                             <TextBlock Text="{Binding Name}"/>

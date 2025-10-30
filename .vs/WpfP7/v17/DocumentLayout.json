@@ -1,30 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mensh\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\",
+  "WorkspaceRootPath": "C:\\Users\\st310-12\\Desktop\\menshikov2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|c:\\users\\mensh\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\wpfp7\\pages\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|solutionrelative:wpfp7\\pages\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|c:\\users\\mensh\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\wpfp7\\pages\\patientformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|solutionrelative:wpfp7\\pages\\patientformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|c:\\users\\mensh\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\wpfp7\\pages\\mainuserpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|solutionrelative:wpfp7\\pages\\mainuserpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|c:\\users\\mensh\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\wpfp7\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|solutionrelative:wpfp7\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|c:\\users\\mensh\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\wpfp7\\pages\\appointmentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|c:\\users\\st310-12\\desktop\\menshikov2\\wpfp7\\pages\\appointmentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|solutionrelative:wpfp7\\pages\\appointmentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|c:\\users\\mensh\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\wpfp7\\styles\\buttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|c:\\users\\st310-12\\desktop\\menshikov2\\wpfp7\\styles\\defaultcolors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|solutionrelative:wpfp7\\styles\\defaultcolors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|c:\\users\\st310-12\\desktop\\menshikov2\\wpfp7\\styles\\themehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|solutionrelative:wpfp7\\styles\\themehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|c:\\users\\st310-12\\desktop\\menshikov2\\wpfp7\\styles\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|solutionrelative:wpfp7\\styles\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|c:\\users\\st310-12\\desktop\\menshikov2\\wpfp7\\styles\\buttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|solutionrelative:wpfp7\\styles\\buttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|c:\\users\\st310-12\\desktop\\menshikov2\\wpfp7\\pages\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|solutionrelative:wpfp7\\pages\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|c:\\users\\st310-12\\desktop\\menshikov2\\wpfp7\\pages\\patientformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|solutionrelative:wpfp7\\pages\\patientformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|c:\\users\\st310-12\\desktop\\menshikov2\\wpfp7\\pages\\mainuserpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|solutionrelative:wpfp7\\pages\\mainuserpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|c:\\users\\st310-12\\desktop\\menshikov2\\wpfp7\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|solutionrelative:wpfp7\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|c:\\users\\st310-12\\desktop\\menshikov2\\wpfp7\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0A1F03EC-5AEA-4ABD-B692-E4A3A6880A1A}|WpfP7\\WpfP7.csproj|solutionrelative:wpfp7\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,28 +53,78 @@
           "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Buttons.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-12\\Desktop\\menshikov2\\WpfP7\\styles\\Buttons.xaml",
+              "RelativeDocumentMoniker": "WpfP7\\styles\\Buttons.xaml",
+              "ToolTip": "C:\\Users\\st310-12\\Desktop\\menshikov2\\WpfP7\\styles\\Buttons.xaml",
+              "RelativeToolTip": "WpfP7\\styles\\Buttons.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T05:00:17.427Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Buttons.xaml",
-              "DocumentMoniker": "C:\\Users\\mensh\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\WpfP7\\styles\\Buttons.xaml",
-              "RelativeDocumentMoniker": "WpfP7\\styles\\Buttons.xaml",
-              "ToolTip": "C:\\Users\\mensh\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\WpfP7\\styles\\Buttons.xaml",
-              "RelativeToolTip": "WpfP7\\styles\\Buttons.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-27T05:00:17.427Z",
+              "DocumentIndex": 2,
+              "Title": "ThemeHelper.cs",
+              "DocumentMoniker": "C:\\Users\\st310-12\\Desktop\\menshikov2\\WpfP7\\styles\\ThemeHelper.cs",
+              "RelativeDocumentMoniker": "WpfP7\\styles\\ThemeHelper.cs",
+              "ToolTip": "C:\\Users\\st310-12\\Desktop\\menshikov2\\WpfP7\\styles\\ThemeHelper.cs",
+              "RelativeToolTip": "WpfP7\\styles\\ThemeHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T04:53:10.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "DarkTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-12\\Desktop\\menshikov2\\WpfP7\\styles\\DarkTheme.xaml",
+              "RelativeDocumentMoniker": "WpfP7\\styles\\DarkTheme.xaml",
+              "ToolTip": "C:\\Users\\st310-12\\Desktop\\menshikov2\\WpfP7\\styles\\DarkTheme.xaml",
+              "RelativeToolTip": "WpfP7\\styles\\DarkTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T04:53:07.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DefaultColors.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-12\\Desktop\\menshikov2\\WpfP7\\styles\\DefaultColors.xaml",
+              "RelativeDocumentMoniker": "WpfP7\\styles\\DefaultColors.xaml",
+              "ToolTip": "C:\\Users\\st310-12\\Desktop\\menshikov2\\WpfP7\\styles\\DefaultColors.xaml",
+              "RelativeToolTip": "WpfP7\\styles\\DefaultColors.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T04:52:59.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-12\\Desktop\\menshikov2\\WpfP7\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfP7\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\st310-12\\Desktop\\menshikov2\\WpfP7\\MainWindow.xaml",
+              "RelativeToolTip": "WpfP7\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T04:50:53.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "AppointmentPage.xaml",
-              "DocumentMoniker": "C:\\Users\\mensh\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\WpfP7\\Pages\\AppointmentPage.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-12\\Desktop\\menshikov2\\WpfP7\\Pages\\AppointmentPage.xaml",
               "RelativeDocumentMoniker": "WpfP7\\Pages\\AppointmentPage.xaml",
-              "ToolTip": "C:\\Users\\mensh\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\WpfP7\\Pages\\AppointmentPage.xaml",
+              "ToolTip": "C:\\Users\\st310-12\\Desktop\\menshikov2\\WpfP7\\Pages\\AppointmentPage.xaml",
               "RelativeToolTip": "WpfP7\\Pages\\AppointmentPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-10-27T04:54:40.617Z",
@@ -66,11 +132,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "LoginPage.xaml",
-              "DocumentMoniker": "C:\\Users\\mensh\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\WpfP7\\Pages\\LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-12\\Desktop\\menshikov2\\WpfP7\\Pages\\LoginPage.xaml",
               "RelativeDocumentMoniker": "WpfP7\\Pages\\LoginPage.xaml",
-              "ToolTip": "C:\\Users\\mensh\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\WpfP7\\Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\st310-12\\Desktop\\menshikov2\\WpfP7\\Pages\\LoginPage.xaml",
               "RelativeToolTip": "WpfP7\\Pages\\LoginPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-10-27T03:47:46.419Z",
@@ -78,11 +144,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "MainUserPage.xaml",
-              "DocumentMoniker": "C:\\Users\\mensh\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\WpfP7\\Pages\\MainUserPage.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-12\\Desktop\\menshikov2\\WpfP7\\Pages\\MainUserPage.xaml",
               "RelativeDocumentMoniker": "WpfP7\\Pages\\MainUserPage.xaml",
-              "ToolTip": "C:\\Users\\mensh\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\WpfP7\\Pages\\MainUserPage.xaml",
+              "ToolTip": "C:\\Users\\st310-12\\Desktop\\menshikov2\\WpfP7\\Pages\\MainUserPage.xaml",
               "RelativeToolTip": "WpfP7\\Pages\\MainUserPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-10-27T03:31:03.885Z",
@@ -90,11 +156,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "PatientFormPage.xaml",
-              "DocumentMoniker": "C:\\Users\\mensh\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\WpfP7\\Pages\\PatientFormPage.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-12\\Desktop\\menshikov2\\WpfP7\\Pages\\PatientFormPage.xaml",
               "RelativeDocumentMoniker": "WpfP7\\Pages\\PatientFormPage.xaml",
-              "ToolTip": "C:\\Users\\mensh\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\WpfP7\\Pages\\PatientFormPage.xaml",
+              "ToolTip": "C:\\Users\\st310-12\\Desktop\\menshikov2\\WpfP7\\Pages\\PatientFormPage.xaml",
               "RelativeToolTip": "WpfP7\\Pages\\PatientFormPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-10-27T04:59:06.446Z",
@@ -102,11 +168,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "RegisterPage.xaml",
-              "DocumentMoniker": "C:\\Users\\mensh\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\WpfP7\\Pages\\RegisterPage.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-12\\Desktop\\menshikov2\\WpfP7\\Pages\\RegisterPage.xaml",
               "RelativeDocumentMoniker": "WpfP7\\Pages\\RegisterPage.xaml",
-              "ToolTip": "C:\\Users\\mensh\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\WpfP7\\Pages\\RegisterPage.xaml",
+              "ToolTip": "C:\\Users\\st310-12\\Desktop\\menshikov2\\WpfP7\\Pages\\RegisterPage.xaml",
               "RelativeToolTip": "WpfP7\\Pages\\RegisterPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-10-27T04:59:07.504Z",
